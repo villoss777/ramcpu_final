@@ -1,0 +1,14 @@
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\bin\Debug\metalatjrtort.exe.config
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\bin\Debug\metalatjrtort.exe
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\bin\Debug\metalatjrtort.pdb
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\metalatjrtort.csprojAssemblyReference.cache
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\MainWindow.g.cs
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\App.g.cs
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\metalatjrtort_MarkupCompile.cache
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\metalatjrtort_MarkupCompile.lref
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\MainWindow.baml
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\metalatjrtort.g.resources
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\metalatjrtort.Properties.Resources.resources
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\metalatjrtort.csproj.GenerateResource.cache
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\metalatjrtort.exe
+F:\SCIPTPYTHON\c sharp\metalatjrtort\metalatjrtort\obj\Debug\metalatjrtort.pdb
